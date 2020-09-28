@@ -3,6 +3,9 @@ Changelog
 
 ## master
 
+## [0.1.0-t1]
+
+ - [Timeless Specific] Fix introspectScrollView on iOS 14
  - Allow `Introspect` to be imported in apps that support older platform versions.
  - Added Catalyst support in the Introspect iOS framework.
 
